@@ -1,1 +1,1 @@
-console.log("practica commit con emoji")
+console.log("practica commit con emoji, va a funcionar")
